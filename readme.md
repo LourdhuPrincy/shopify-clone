@@ -10,3 +10,5 @@
  
 
 Because of this project I have learnt how to design a webpage including different types of sections like header, hero section,blogs, cards, tables etc.
+
+[netlify link](https://shopify-clone-homepage.netlify.app/)
